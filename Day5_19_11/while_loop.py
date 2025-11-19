@@ -79,7 +79,6 @@
 # - Depends on a TRUE/FALSE condition.
 # - High chance of infinite loop if condition is not updated.
 
-
 # Quick Summary:
 # For → fixed steps       (e.g., run 10 times)
 # While → run until done  (e.g., ask password until correct)
