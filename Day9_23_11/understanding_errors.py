@@ -8,7 +8,6 @@
 # 3. Logical Errors
 # --------------------------------------------
 
-
 # 1️⃣ SYNTAX ERROR
 # ----------------
 # Happens when you break Python grammar rules.
